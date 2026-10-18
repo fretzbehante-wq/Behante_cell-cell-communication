@@ -1,0 +1,3 @@
+| sender_cell | ligand | receiver_cell | receptor | interaction | signaling_pathway | expected_response | evidence_source |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Neuron | FGF9 (UniProt: P31371) | Astrocyte | FGFR3 (UniProt: P22607) | FGF9 binds to FGFR3 on the receiver cell | Proposed FGFR3-associated signaling involving FRS2, GRB2, SOS1, and HRAS | Potential changes in astrocyte maturation and function | Brandebura et al. (2022); Human Protein Atlas; OmniPath; STRING; IntAct |
